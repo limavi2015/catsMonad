@@ -1,0 +1,928 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+22 items
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio1GettingFuncy$Monad2.class
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio1GettingFuncy.class
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio2MonadicSecret.class
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio4SaferFoldingUsingEval.class
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio5ShowYouWorking.class
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio6HackingOnReaders$Db$.class
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio6HackingOnReaders$Db.class
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio6HackingOnReaders.class
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio7PostOrderCalculator.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio7PostOrderCalculator.class
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio8BranchingOutFurtherWithMonads.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio8BranchingOutFurtherWithMonads.class
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/EvalMonad.class
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/FlatmapExample.class
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/IdentidadID.class
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/LeyesNomad.class
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/MonadsInCats.class
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/ReaderNomad$Cat$.class
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/ReaderNomad$Cat.class
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/ReaderNomad.class
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/StateNomad.class
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/WriterMonad.class
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Solution$.class
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> /home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Solution.class
+binary dependencies:
+46 items
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> /home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> /opt/java/jdk1.8.0_131/jre/lib/rt.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> /home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> /home/lili/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-0.9.0.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> /opt/java/jdk1.8.0_131/jre/lib/rt.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> /home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> /home/lili/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-0.9.0.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> /opt/java/jdk1.8.0_131/jre/lib/rt.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> /home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> /home/lili/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-0.9.0.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> /home/lili/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-0.9.0.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> /opt/java/jdk1.8.0_131/jre/lib/rt.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> /home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> /home/lili/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-0.9.0.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> /opt/java/jdk1.8.0_131/jre/lib/rt.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio7PostOrderCalculator.scala -> /home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio7PostOrderCalculator.scala -> /opt/java/jdk1.8.0_131/jre/lib/rt.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio8BranchingOutFurtherWithMonads.scala -> /home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio8BranchingOutFurtherWithMonads.scala -> /opt/java/jdk1.8.0_131/jre/lib/rt.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> /home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> /home/lili/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-0.9.0.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> /opt/java/jdk1.8.0_131/jre/lib/rt.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> /home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> /opt/java/jdk1.8.0_131/jre/lib/rt.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> /home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> /home/lili/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-0.9.0.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> /opt/java/jdk1.8.0_131/jre/lib/rt.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> /home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> /home/lili/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-0.9.0.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> /home/lili/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-0.9.0.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> /opt/java/jdk1.8.0_131/jre/lib/rt.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> /home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> /home/lili/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-0.9.0.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> /opt/java/jdk1.8.0_131/jre/lib/rt.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> /home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> /home/lili/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-0.9.0.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> /opt/java/jdk1.8.0_131/jre/lib/rt.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> /home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> /home/lili/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-0.9.0.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> /opt/java/jdk1.8.0_131/jre/lib/rt.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> /home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> /home/lili/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-0.9.0.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> /home/lili/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-0.9.0.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> /opt/java/jdk1.8.0_131/jre/lib/rt.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> /home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> /opt/java/jdk1.8.0_131/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> /home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+22 items
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> Ejercicio1GettingFuncy
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> Ejercicio1GettingFuncy$Monad2
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> Ejercicio2MonadicSecret
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> Ejercicio4SaferFoldingUsingEval
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> Ejercicio5ShowYouWorking
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> Ejercicio6HackingOnReaders
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> Ejercicio6HackingOnReaders$Db
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> Ejercicio6HackingOnReaders$Db$
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio7PostOrderCalculator.scala -> Ejercicio7PostOrderCalculator
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio8BranchingOutFurtherWithMonads.scala -> Ejercicio8BranchingOutFurtherWithMonads
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> EvalMonad
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> FlatmapExample
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> IdentidadID
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> LeyesNomad
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> MonadsInCats
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> ReaderNomad
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> ReaderNomad$Cat
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> ReaderNomad$Cat$
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> StateNomad
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> WriterMonad
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> Solution
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> Solution$
+used names:
+572 items
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> <init>
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> A
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> AnyRef
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> B
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> Ejercicio1GettingFuncy
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> F
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> Function1
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> Monad2
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> Predef
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> _root_
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> a
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> apply
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> f
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> fa
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> flatMap
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> higherKinds
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> language
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> println
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> pure
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> scala
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> *
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> <init>
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> A
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> AnyRef
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> B
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> Ejercicio2MonadicSecret
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> Function1
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> Id
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> Predef
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> _root_
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> apply
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> cats
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> flatMap
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> func
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> initial
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> map
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> package
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> println
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> pure
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> scala
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> value
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> <init>
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> ==
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> A
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> AnyRef
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> B
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> Ejercicio4SaferFoldingUsingEval
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> Eval
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> Function2
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> List
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> Nil
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> Predef
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> _root_
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> acc
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> apply
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> as
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> asInstanceOf
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> cats
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> collection
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> defer
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> fn
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> foldRightEval
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> foldRightOld
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> head
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> immutable
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> isInstanceOf
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> package
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> println
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> scala
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> tail
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> *
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> -
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> <byname>
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> <init>
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> ==
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> A
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> AnyRef
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> Await
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> Duration
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> Ejercicio5ShowYouWorking
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> ExecutionContext
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> Future
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> Implicits
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> Inf
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> Int
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> Logged
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> Predef
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> String
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> StringContext
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> Thread
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> Vector
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> Writer
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> WriterT
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> _1
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> _2
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> _root_
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> a
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> ans
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> applicative
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> apply
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> body
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> canBuildFrom
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> cats
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> catsDataMonadForWriterTId
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> catsInstancesForId
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> catsKernelStdMonoidForVector
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> catsSyntaxApplicativeId
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> catsSyntaxWriterId
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> concurrent
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> data
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> duration
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> factorial
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> factorialOld
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> flatMap
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> global
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> immutable
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> instances
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> java
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> lang
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> log
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> map
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> n
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> ne
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> package
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> println
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> pure
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> result
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> run
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> s
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> scala
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> sequence
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> sleep
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> slowly
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> syntax
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> tell
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> unchecked
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> vector
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> writer
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> writerEjemplo
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> &&
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> ->
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> <init>
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> ==
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> A
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> AbstractFunction2
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> AnyRef
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> Boolean
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> Db
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> DbReader
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> Ejercicio6HackingOnReaders
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> Int
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> Kleisli
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> Map
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> None
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> Option
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> Predef
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> Product
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> Reader
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> ScalaRunTime
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> Serializable
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> String
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> Tuple2
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> _hashCode
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> _root_
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> _toString
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> applicative
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> apply
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> asInstanceOf
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> cats
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> catsDataMonadReaderForKleisliId
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> catsInstancesForId
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> catsSyntaxApplicativeId
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> checkLogin
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> checkPassword
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> contains
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> data
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> db
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> eq
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> findUsername
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> flatMap
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> get
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> getOrElse
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> isInstanceOf
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> map
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> package
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> password
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> passwordOk
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> passwords
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> println
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> pure
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> run
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> runtime
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> scala
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> syntax
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> toString
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> typedProductIterator
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> userId
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> username
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> usernames
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> ||
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio7PostOrderCalculator.scala -> <init>
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio7PostOrderCalculator.scala -> AnyRef
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio7PostOrderCalculator.scala -> Ejercicio7PostOrderCalculator
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio7PostOrderCalculator.scala -> Predef
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio7PostOrderCalculator.scala -> println
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio7PostOrderCalculator.scala -> scala
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio8BranchingOutFurtherWithMonads.scala -> <init>
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio8BranchingOutFurtherWithMonads.scala -> AnyRef
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio8BranchingOutFurtherWithMonads.scala -> Ejercicio8BranchingOutFurtherWithMonads
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio8BranchingOutFurtherWithMonads.scala -> Predef
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio8BranchingOutFurtherWithMonads.scala -> println
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio8BranchingOutFurtherWithMonads.scala -> scala
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> *
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> +
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> -
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> <init>
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> ==
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> AnyRef
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> BigInt
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> Eval
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> EvalMonad
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> Int
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> Predef
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> String
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> StringContext
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> always
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> cats
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> defer
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> factorial
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> factorial2
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> factorial3
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> greeting
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> int2bigInt
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> later
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> map
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> math
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> memoize
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> n
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> now
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> package
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> println
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> s
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> saying
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> scala
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> str
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> valAlways
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> valLater
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> valNow
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> value
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> x
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> *
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> +
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> -
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> <init>
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> AnyRef
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> Await
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> ExecutionContext
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> FlatmapExample
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> Future
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> Implicits
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> Int
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> List
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> None
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> Option
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> Predef
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> String
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> StringCanBuildFrom
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> Try
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> apply
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> augmentString
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> canBuildFrom
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> collection
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> concurrent
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> duration
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> flatMap
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> futuro3
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> futuro3FlatMap
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> futuro3Map
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> futuro5
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> g
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> global
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> immutable
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> int3
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> int5
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> listaInt
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> listaOption
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> listaString
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> map
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> n
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> numOp
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> numOp2
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> option2Iterable
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> package
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> parseInt
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> println
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> result
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> scala
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> seconds
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> str
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> toInt
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> toOption
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> toString
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> util
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> v
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> *
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> +
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> <init>
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> AnyRef
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> Await
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> ExecutionContext
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> Future
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> Id
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> IdentidadID
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> Implicits
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> Int
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> M
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> Monad
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> Option
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> Predef
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> a
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> apply
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> b
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> cats
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> catsInstancesForId
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> catsStdInstancesForFuture
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> catsStdInstancesForOption
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> concurrent
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> d
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> duration
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> flatMap
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> global
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> idInt2
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> implicits
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> map
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> package
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> println
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> pure
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> result
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> resultAsincrono
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> resultID
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> resultOption
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> resultSincrono
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> scala
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> seconds
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> sumSquare
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> toFlatMapOps
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> toFunctorOps
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> x
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> y
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> +
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> <init>
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> ===
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> AnyRef
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> Int
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> LeyesNomad
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> Monad
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> Option
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> Predef
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> apply
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> cats
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> catsKernelStdOrderForInt
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> catsKernelStdOrderForOption
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> catsKernelStdOrderForString
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> catsStdInstancesForOption
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> catsSyntaxEq
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> eqv
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> f1
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> f2
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> flatMap
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> g2
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> implicits
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> m1
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> m2
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> println
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> pure
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> scala
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> toString
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> w
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> x
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> *
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> +
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> <init>
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> AnyRef
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> Int
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> List
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> Monad
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> MonadsInCats
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> Option
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> OptionInt
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> Predef
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> Vector
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> a
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> apply
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> cats
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> catsStdInstancesForList
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> catsStdInstancesForOption
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> catsStdInstancesForVector
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> catsSyntaxApplicativeId
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> collection
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> flatMap
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> immutable
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> implicits
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> list
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> list1
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> list2
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> list3
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> listInt
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> map
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> opt1
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> opt2
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> opt3
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> option1
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> package
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> println
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> pure
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> scala
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> vector1
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> x
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> &&
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> <init>
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> ==
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> AbstractFunction2
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> AnyRef
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> Cat
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> None
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> Option
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> Predef
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> Product
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> Reader
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> ReaderNomad
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> ScalaRunTime
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> Serializable
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> String
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> StringContext
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> Tuple2
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> _hashCode
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> _root_
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> _toString
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> apply
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> asInstanceOf
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> cat
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> catName
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> cats
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> catsInstancesForId
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> color
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> data
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> eq
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> feedKitty
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> flatMap
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> greetAndFeed
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> greetKitty
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> isInstanceOf
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> map
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> msg1
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> msg2
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> name
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> package
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> println
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> run
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> runtime
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> s
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> scala
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> toString
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> typedProductIterator
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> ||
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> *
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> +
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> <init>
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> AnyRef
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> Eval
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> Int
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> Predef
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> State
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> StateNomad
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> String
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> StringContext
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> _1
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> _2
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> a
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> ans
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> apply
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> b
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> both
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> cats
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> catsBimonadForEval
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> data
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> flatMap
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> map
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> ne
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> num
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> package
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> println
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> result
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> resultboth
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> run
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> runA
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> runS
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> s
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> scala
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> state
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> stateboth
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> step1
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> step2
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> unchecked
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> value
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> *
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> +
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> <init>
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> A
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> AnyRef
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> Int
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> Logged
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> Predef
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> String
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> StringContext
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> Vector
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> Writer
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> WriterMonad
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> WriterT
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> _1
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> _2
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> applicative
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> apply
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> b
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> bimap
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> canBuildFrom
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> cats
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> catsDataMonadForWriterTId
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> catsInstancesForId
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> catsKernelStdMonoidForVector
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> catsSyntaxApplicativeId
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> catsSyntaxWriterId
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> d
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> data
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> immutable
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> instances
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> log
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> log2
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> map
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> mapBoth
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> mapWritten
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> package
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> println
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> pure
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> reset
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> result
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> result2
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> run
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> s
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> scala
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> swap
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> syntax
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> tell
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> toUpperCase
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> value
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> vector
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> w
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> writer
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> writer3
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> writer4
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> writerEjemplo
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> written
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> x
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> <init>
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> AnyRef
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> Array
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> Predef
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> Solution
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> StateNomad
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> String
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> Unit
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> scala
+product stamps:
+22 items
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio1GettingFuncy$Monad2.class -> lastModified(1496033231000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio1GettingFuncy.class -> lastModified(1496033231000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio2MonadicSecret.class -> lastModified(1496033231000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio4SaferFoldingUsingEval.class -> lastModified(1496033231000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio5ShowYouWorking.class -> lastModified(1496041642000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio6HackingOnReaders$Db$.class -> lastModified(1496045243000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio6HackingOnReaders$Db.class -> lastModified(1496045243000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio6HackingOnReaders.class -> lastModified(1496045243000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio7PostOrderCalculator.class -> lastModified(1496033231000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Ejercicio8BranchingOutFurtherWithMonads.class -> lastModified(1496033231000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/EvalMonad.class -> lastModified(1496042122000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/FlatmapExample.class -> lastModified(1496033231000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/IdentidadID.class -> lastModified(1496033231000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/LeyesNomad.class -> lastModified(1496033231000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/MonadsInCats.class -> lastModified(1496033231000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/ReaderNomad$Cat$.class -> lastModified(1496046403000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/ReaderNomad$Cat.class -> lastModified(1496046403000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/ReaderNomad.class -> lastModified(1496046403000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Solution$.class -> lastModified(1496046403000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/Solution.class -> lastModified(1496046403000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/StateNomad.class -> lastModified(1496046632000)
+/home/lili/Escritorio/nomadLili/target/scala-2.12/classes/WriterMonad.class -> lastModified(1496041567000)
+source stamps:
+16 items
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> hash(5c8e3ff4798791dddc7ad9a70a4bc3cc985c2b7f)
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> hash(b7e979fd053ee3240280a71abc4a1fce352d007b)
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> hash(a4ee8013e29f50bb16567581395b0ffbf7377966)
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> hash(db52aeb4d309567bead7f75bd90c9bf079de0d0d)
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> hash(5d7749bed2930557ae045050f819e70370a87b53)
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio7PostOrderCalculator.scala -> hash(191174b21abea5d143e44174c5364347739c3dc4)
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio8BranchingOutFurtherWithMonads.scala -> hash(463034a4ed19d2401236547d550e6da573b7e92c)
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> hash(bdf3ea9f1ac851696a5ebaf50de45f1ff4a41bcb)
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> hash(3df2f6589d106f2361452e2639c782f7d6aeef4e)
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> hash(073fbbabe408330606f8b8e39ced95a9dc1e4020)
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> hash(104e8b57d0b06d2b1be26223153601debf5d5baf)
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> hash(83241dc8c6f046b02e3ee3eb016a5ce22e9f3b0b)
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> hash(edb12120fb3ae56e00ee39d5d373a2f478127fd3)
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> hash(4484b29ecbb448ac7582feffcbb532a3e29f90a8)
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> hash(34c6c274493e1a2168611f98256177292f14e8f7)
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> hash(5e1991e2d04030f35bd5c3f55bfca5b06c42091c)
+binary stamps:
+4 items
+/home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> lastModified(1492071552000)
+/home/lili/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-0.9.0.jar -> lastModified(1484523185000)
+/home/lili/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-0.9.0.jar -> lastModified(1484523066000)
+/opt/java/jdk1.8.0_131/jre/lib/rt.jar -> lastModified(1489566767000)
+class names:
+4 items
+/home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> scala.Tuple2$
+/home/lili/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-0.9.0.jar -> cats.data.StateT
+/home/lili/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-0.9.0.jar -> cats.kernel.instances.VectorInstances
+/opt/java/jdk1.8.0_131/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+16 items
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAzP7LLAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cI8XilF0AAZub3RpZnlzcQB+AAz9SNwfdAAEd2FpdHNxAH4ADMTLBIh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMwPEbLHQAA21hcHNxAH4ADCH9+nt0AAZlcXVhbHNzcQB+AAwDeErOdAAMYXNJbnN0YW5jZU9mc3EAfgAM1BCjV3QADHN5bmNocm9uaXplZHNxAH4ADEg1IpF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMmBMhS3QABHB1cmVzcQB+AAzrEnoidAAJbm90aWZ5QWxsc3EAfgAMoVN3L3QADGlzSW5zdGFuY2VPZnNxAH4ADLDqwd90AAY8aW5pdD5zcQB+AAxTTNH/dAAHZmxhdE1hcHNxAH4ADC8AIul0AAI9PXNxAH4ADLxAhnp0AAVjbG9uZXNxAH4ADCcevqx0AAZNb25hZDJzcQB+AAxSpUvndAAGJGluaXQkc3EAfgAM/kfQynQAFkVqZXJjaWNpbzFHZXR0aW5nRnVuY3lzcQB+AAxjVvwydAAIdG9TdHJpbmdzcQB+AAwSlIkIdAACIT1zcQB+AAz3G4sydAAIZ2V0Q2xhc3NzcQB+AAwRMemrdAACbmVzcQB+AAwsI00ddAACZXFzcQB+AAza18w+dAACIyNzcQB+AAwVNJ1UdAAIZmluYWxpemVzcQB+AAxIf6tMdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ADF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AYgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AS0wACWluaGVyaXRlZHEAfgBLTAAHcGFyZW50c3EAfgBLeHEAfgBpc3EAfgBiAXVxAH4ARgAAAABwc3EAfgBiAXVxAH4ARgAAAABwc3EAfgBiAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AgXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AgnNxAH4AdXQAA0FueXNxAH4AeXNxAH4AfHVxAH4AfwAAAAJzcQB+AIF0AAVzY2FsYXEAfgCIcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFKHWjN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA5L2hvbWUvbGlsaS9Fc2NyaXRvcmlvL25vbWFkTGlsaS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUXI4/9HmHkd3cetmnCkvDzJhcK38=
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDsMoaHAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGnmZg90AAZub3RpZnlzcQB+AAxDX41udAAEd2FpdHNxAH4ADMu7oGJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMmFYpQXQAA21hcHNxAH4ADAePP/x0AAZlcXVhbHNzcQB+AAwywjXKdAAMYXNJbnN0YW5jZU9mc3EAfgAMxiR4e3QADHN5bmNocm9uaXplZHNxAH4ADOtPgOF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMFfyHDHQAF0VqZXJjaWNpbzJNb25hZGljU2VjcmV0c3EAfgAMkYxi6XQABHB1cmVzcQB+AAxuCmtCdAAJbm90aWZ5QWxsc3EAfgAMvPfaxXQADGlzSW5zdGFuY2VPZnNxAH4ADKiXaDt0AAY8aW5pdD5zcQB+AAynx77ndAAHZmxhdE1hcHNxAH4ADOtFEBZ0AAI9PXNxAH4ADCeA7Nd0AAVjbG9uZXNxAH4ADCVHtdZ0AAh0b1N0cmluZ3NxAH4ADGDOSwR0AAIhPXNxAH4ADPYMPXl0AAhnZXRDbGFzc3NxAH4ADERFj+R0AAJuZXNxAH4ADAOT70R0AAJlcXNxAH4ADBhAIId0AAIjI3NxAH4ADJHTz4l0AAhmaW5hbGl6ZXNxAH4ADFawi+50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AH3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBeAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGVzcQB+AF4BdXEAfgBCAAAAAHBzcQB+AF4BdXEAfgBCAAAAAHBzcQB+AF4BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBkdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBkc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB9dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB+c3EAfgBxdAADQW55c3EAfgB1c3EAfgB4dXEAfgB7AAAAAnNxAH4AfXQABXNjYWxhcQB+AIRwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcUodaM3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADkvaG9tZS9saWxpL0VzY3JpdG9yaW8vbm9tYWRMaWxpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABS36Xn9BT7jJAKApxq8Sh/ONS0Aew==
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBREPeHAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLrDPGx0AAZub3RpZnlzcQB+AAwlMopZdAAEd2FpdHNxAH4ADJn/xmh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMsBC9uHQABmVxdWFsc3NxAH4ADED3P6J0AB9FamVyY2ljaW80U2FmZXJGb2xkaW5nVXNpbmdFdmFsc3EAfgAMMzq4ZHQADGFzSW5zdGFuY2VPZnNxAH4ADBDfX010AAxzeW5jaHJvbml6ZWRzcQB+AAxYXUpWdAANJGlzSW5zdGFuY2VPZnNxAH4ADPSWbHN0AAxmb2xkUmlnaHRPbGRzcQB+AAybuRfzdAAJbm90aWZ5QWxsc3EAfgAMPle+SnQADGlzSW5zdGFuY2VPZnNxAH4ADJG4kzl0AA1mb2xkUmlnaHRFdmFsc3EAfgAMdu6ez3QABjxpbml0PnNxAH4ADCnkFdd0AAI9PXNxAH4ADDPAvaV0AAVjbG9uZXNxAH4ADE8lObx0AAh0b1N0cmluZ3NxAH4ADAitshx0AAIhPXNxAH4ADOe379F0AAhnZXRDbGFzc3NxAH4ADApGJ9x0AAJuZXNxAH4ADHJPqgR0AAJlcXNxAH4ADISV3Bt0AAIjI3NxAH4ADBWVax90AAhmaW5hbGl6ZXNxAH4ADIjdxIh0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AF3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AXXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXABwc3EAfgBhc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AZXNxAH4AXABwc3EAfgBhdXEAfgBAAAAAAHNxAH4AXABwc3EAfgBhdXEAfgBAAAAAAHNxAH4AXABwc3EAfgBhdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBkdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBkc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCBdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCCc3EAfgB1dAADQW55c3EAfgB5c3EAfgB8dXEAfgB/AAAAAnNxAH4AgXQABXNjYWxhcQB+AIh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFKHWjN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA5L2hvbWUvbGlsaS9Fc2NyaXRvcmlvL25vbWFkTGlsaS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUpO6AE+KfULsWVnWBOVsP+/c3eWY=
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDcur5MAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cETlS4N0AAZub3RpZnlzcQB+AAzyGhXsdAAJZmFjdG9yaWFsc3EAfgAMyjaYlnQAGEVqZXJjaWNpbzVTaG93WW91V29ya2luZ3NxAH4ADDNjdod0AAR3YWl0c3EAfgAMKJ7wB3QADSRhc0luc3RhbmNlT2ZzcQB+AAztrEz8dAAGZXF1YWxzc3EAfgAM4Po/ZHQADGFzSW5zdGFuY2VPZnNxAH4ADCFpU4N0AAZyZXN1bHRzcQB+AAzDNQQ7dAAGTG9nZ2Vkc3EAfgAM3ljftXQADHN5bmNocm9uaXplZHNxAH4ADDh+Xnh0AA0kaXNJbnN0YW5jZU9mc3EAfgAMuzT2EXQAA3gkMXNxAH4ADPx8WK50AAlub3RpZnlBbGxzcQB+AAwW0lzEdAAMaXNJbnN0YW5jZU9mc3EAfgAMLCF7UXQABjxpbml0PnNxAH4ADEdz4P50AA13cml0ZXJFamVtcGxvc3EAfgAMcVKpG3QAAj09c3EAfgAMeYyQy3QABWNsb25lc3EAfgAMIpTgCnQADGZhY3RvcmlhbE9sZHNxAH4ADL1OD0N0AAh0b1N0cmluZ3NxAH4ADPh4slZ0AAIhPXNxAH4ADBqsRYR0AAhnZXRDbGFzc3NxAH4ADPR37l10AAJuZXNxAH4ADByrHPh0AAJlcXNxAH4ADEZUh8p0AAZzbG93bHlzcQB+AAy2RJ5FdAADbG9nc3EAfgAMrQocf3QAAiMjc3EAfgAMidSUt3QACGZpbmFsaXplc3EAfgAMWNKjaHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AUXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgATdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBpeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBoAHBzcQB+AG1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AUUwACWluaGVyaXRlZHEAfgBRTAAHcGFyZW50c3EAfgBReHEAfgBxc3EAfgBoAHBzcQB+AG11cQB+AEwAAAAAc3EAfgBoAHBzcQB+AG11cQB+AEwAAAAAc3EAfgBoAHBzcQB+AG11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHB0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AI10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI5zcQB+AIF0AANBbnlzcQB+AIVzcQB+AIh1cQB+AIsAAAACc3EAfgCNdAAFc2NhbGFxAH4AlHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcUwe+1nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADkvaG9tZS9saWxpL0VzY3JpdG9yaW8vbm9tYWRMaWxpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTbUq600wlWe+rX91vZDJvwed4NDQ==
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCVHdONAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOR0bil0AAZub3RpZnlzcQB+AAyqmvKVdAAHdW5hcHBseXNxAH4ADEEAQUJ0AAdjdXJyaWVkc3EAfgAM5fjqB3QABHdhaXRzcQB+AAxdzw2HdAAOY29weSRkZWZhdWx0JDJzcQB+AAzSOrnUdAANJGFzSW5zdGFuY2VPZnNxAH4ADP+lejN0AAxwcm9kdWN0QXJpdHlzcQB+AAwCBT0BdAAGZXF1YWxzc3EAfgAMtKtpcnQACmNoZWNrTG9naW5zcQB+AAxfT3D4dAAMYXNJbnN0YW5jZU9mc3EAfgAM/S162nQAGkVqZXJjaWNpbzZIYWNraW5nT25SZWFkZXJzc3EAfgAMuBG0vHQADHN5bmNocm9uaXplZHNxAH4ADCV4K5h0AAhEYlJlYWRlcnNxAH4ADCqCK2l0AAJkYnNxAH4ADFKr6uV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMQsEJ53QABnR1cGxlZHNxAH4ADIc4GOR0AAhjYW5FcXVhbHNxAH4ADIj0GMh0AA1wcm9kdWN0UHJlZml4c3EAfgAMc9ZY8nQACW5vdGlmeUFsbHNxAH4ADO45BKZ0AAxpc0luc3RhbmNlT2ZzcQB+AAwEu9gSdAAMZmluZFVzZXJuYW1lc3EAfgAMWwp5H3QABjxpbml0PnNxAH4ADI58IGl0AAlwYXNzd29yZHNzcQB+AAxVXA7xdAAFYXBwbHlzcQB+AAxDJ+/VdAACPT1zcQB+AAyb61sodAAFY2xvbmVzcQB+AAwenvnMdAAJdXNlcm5hbWVzc3EAfgAMeUkZ7XQABGNvcHlzcQB+AAyZdXjQdAAIdG9TdHJpbmdzcQB+AAxyND9adAACIT1zcQB+AAwoGBSXdAAIZ2V0Q2xhc3NzcQB+AAzQhSHRdAAOY29weSRkZWZhdWx0JDFzcQB+AAzJLs3HdAACbmVzcQB+AAyXAKR8dAACZXFzcQB+AAx6t/OHdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAME8gxA3QAAiMjc3EAfgAMxNNiVnQACGZpbmFsaXplc3EAfgAMCSjEsHQADnByb2R1Y3RFbGVtZW50c3EAfgAM2sqdh3QACGhhc2hDb2Rlc3EAfgAMknf0N3QAAkRic3EAfgAMRdcdZHQADWNoZWNrUGFzc3dvcmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBpeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AgAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AaUwACWluaGVyaXRlZHEAfgBpTAAHcGFyZW50c3EAfgBpeHEAfgCHc3EAfgCAAXVxAH4AZAAAAABwc3EAfgCAAXVxAH4AZAAAAABwc3EAfgCAAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AhnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AhnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4An3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AoHNxAH4Ak3QAA0FueXNxAH4Al3NxAH4AmnVxAH4AnQAAAAJzcQB+AJ90AAVzY2FsYXEAfgCmcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFM+p0h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA5L2hvbWUvbGlsaS9Fc2NyaXRvcmlvL25vbWFkTGlsaS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUXXdJvtKTBVeuBFBQ+BnnA3Coe1M=
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio7PostOrderCalculator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCHDqEIAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDbKE910AAZub3RpZnlzcQB+AAyL9TlRdAAEd2FpdHNxAH4ADDeBmM50AA0kYXNJbnN0YW5jZU9mc3EAfgAMOkmYsXQABmVxdWFsc3NxAH4ADH+FPGp0AAxhc0luc3RhbmNlT2ZzcQB+AAxeYj07dAAMc3luY2hyb25pemVkc3EAfgAM16AuyXQADSRpc0luc3RhbmNlT2ZzcQB+AAwQb2bDdAAJbm90aWZ5QWxsc3EAfgAM/RuxGnQADGlzSW5zdGFuY2VPZnNxAH4ADPdtisR0AAY8aW5pdD5zcQB+AAxjQ2AfdAACPT1zcQB+AAyMjto7dAAFY2xvbmVzcQB+AAyqEJqldAAdRWplcmNpY2lvN1Bvc3RPcmRlckNhbGN1bGF0b3JzcQB+AAyeK24WdAAIdG9TdHJpbmdzcQB+AAzKxx+idAACIT1zcQB+AAx66ZgBdAAIZ2V0Q2xhc3NzcQB+AAyhRaQydAACbmVzcQB+AAwiMR5wdAACZXFzcQB+AAxHPS/hdAACIyNzcQB+AAw+LdrWdAAIZmluYWxpemVzcQB+AAwReErLdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBfc3EAfgBYAXVxAH4APAAAAABwc3EAfgBYAXVxAH4APAAAAABwc3EAfgBYAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ad3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHNxAH4Aa3QAA0FueXNxAH4Ab3NxAH4AcnVxAH4AdQAAAAJzcQB+AHd0AAVzY2FsYXEAfgB+cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFKHWjN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA5L2hvbWUvbGlsaS9Fc2NyaXRvcmlvL25vbWFkTGlsaS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUGRF0shq+pdFD5EF0xTZDR3OcPcQ=
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio8BranchingOutFurtherWithMonads.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDLYRxyAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLNacQ50AAZub3RpZnlzcQB+AAzBV0rXdAAnRWplcmNpY2lvOEJyYW5jaGluZ091dEZ1cnRoZXJXaXRoTW9uYWRzc3EAfgAMuM7OBnQABHdhaXRzcQB+AAxeksM3dAANJGFzSW5zdGFuY2VPZnNxAH4ADGRQJD50AAZlcXVhbHNzcQB+AAxinxM0dAAMYXNJbnN0YW5jZU9mc3EAfgAMj1X5n3QADHN5bmNocm9uaXplZHNxAH4ADDqxI5d0AA0kaXNJbnN0YW5jZU9mc3EAfgAMeOF0bXQACW5vdGlmeUFsbHNxAH4ADKQqpAd0AAxpc0luc3RhbmNlT2ZzcQB+AAxBffQkdAAGPGluaXQ+c3EAfgAMLSbU73QAAj09c3EAfgAMBNqSjHQABWNsb25lc3EAfgAMELZKQ3QACHRvU3RyaW5nc3EAfgAMLEb11XQAAiE9c3EAfgAMYBKU/3QACGdldENsYXNzc3EAfgAMpldRwnQAAm5lc3EAfgAM8Rt9wXQAAmVxc3EAfgAMqXWAc3QAAiMjc3EAfgAMoLGxLnQACGZpbmFsaXplc3EAfgAM+8enRnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgARdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBZeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYAHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBhc3EAfgBYAHBzcQB+AF11cQB+ADwAAAAAc3EAfgBYAHBzcQB+AF11cQB+ADwAAAAAc3EAfgBYAHBzcQB+AF11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGB0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH5zcQB+AHF0AANBbnlzcQB+AHVzcQB+AHh1cQB+AHsAAAACc3EAfgB9dAAFc2NhbGFxAH4AhHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcUodaM3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADkvaG9tZS9saWxpL0VzY3JpdG9yaW8vbm9tYWRMaWxpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRGMDSk7RnSQBI2VH1VDm2lc7fpLA==
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC5gF52AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cImGxHF0AAZub3RpZnlzcQB+AAwgzy+VdAABeHNxAH4ADJa7eXN0AApmYWN0b3JpYWwyc3EAfgAM6yDHWHQACWZhY3RvcmlhbHNxAH4ADMNcQ5p0AAR3YWl0c3EAfgAMFjbafnQACUV2YWxNb25hZHNxAH4ADBqtYU90AA0kYXNJbnN0YW5jZU9mc3EAfgAM/6POHXQABmVxdWFsc3NxAH4ADH7Q4HZ0AAh2YWxMYXRlcnNxAH4ADPMdkI10AAF5c3EAfgAMvQvuU3QABnNheWluZ3NxAH4ADJ8Sg1l0AAxhc0luc3RhbmNlT2ZzcQB+AAyLo2RrdAAMc3luY2hyb25pemVkc3EAfgAMj2m1iXQADSRpc0luc3RhbmNlT2ZzcQB+AAzvREz+dAAJbm90aWZ5QWxsc3EAfgAMl/iW33QACmZhY3RvcmlhbDNzcQB+AAyWzS/cdAAMaXNJbnN0YW5jZU9mc3EAfgAMCem/snQABjxpbml0PnNxAH4ADLh7iiF0AAI9PXNxAH4ADOmeRkh0AAVjbG9uZXNxAH4ADLNFp2l0AAhncmVldGluZ3NxAH4ADK0lXx10AAZ2YWxOb3dzcQB+AAzSLnRtdAAIdG9TdHJpbmdzcQB+AAxb5Dw6dAACIT1zcQB+AAypE5B7dAAIZ2V0Q2xhc3NzcQB+AAwKrZKOdAACbmVzcQB+AAwKv/NgdAAJdmFsQWx3YXlzc3EAfgAMdqq1F3QAAmVxc3EAfgAM5GbgGnQAAiMjc3EAfgAM3fDJk3QACGZpbmFsaXplc3EAfgAMneadBHQAAXpzcQB+AAw+w9M6dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ABl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AG94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AG4AcHNxAH4Ac3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBXTAAJaW5oZXJpdGVkcQB+AFdMAAdwYXJlbnRzcQB+AFd4cQB+AHdzcQB+AG4AcHNxAH4Ac3VxAH4AUgAAAABzcQB+AG4AcHNxAH4Ac3VxAH4AUgAAAABzcQB+AG4AcHNxAH4Ac3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ak3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlHNxAH4Ah3QAA0FueXNxAH4Ai3NxAH4AjnVxAH4AkQAAAAJzcQB+AJN0AAVzY2FsYXEAfgCadXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVxTDw/KdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFL3z6p8ayFFpal669Q3kXx/0pBvL
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC+B3YHAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIW51BV0AAZub3RpZnlzcQB+AAxf6bRYdAAEd2FpdHNxAH4ADMms4/l0AA0kYXNJbnN0YW5jZU9mc3EAfgAMxN0mA3QABmVxdWFsc3NxAH4ADPekCX10AA5GbGF0bWFwRXhhbXBsZXNxAH4ADJiXvbB0AAxhc0luc3RhbmNlT2ZzcQB+AAygPKtZdAAMc3luY2hyb25pemVkc3EAfgAMIcm9HXQADSRpc0luc3RhbmNlT2ZzcQB+AAwdGMESdAAJbm90aWZ5QWxsc3EAfgAMHixZv3QADGlzSW5zdGFuY2VPZnNxAH4ADFUCidR0AApmdXR1cm8zTWFwc3EAfgAMqV7RmnQABjxpbml0PnNxAH4ADKXp/fB0AA5mdXR1cm8zRmxhdE1hcHNxAH4ADEMBn5J0AAFnc3EAfgAMFtiFy3QAAj09c3EAfgAMV7LXQnQABWNsb25lc3EAfgAMaZEMTXQACGxpc3RhSW50c3EAfgAM4MWN1HQACHRvU3RyaW5nc3EAfgAMzAP/hnQAAiE9c3EAfgAMhcSTq3QAC2xpc3RhU3RyaW5nc3EAfgAMVtJNt3QACGdldENsYXNzc3EAfgAMLRdEv3QACHBhcnNlSW50c3EAfgAMAqEcQ3QAAm5lc3EAfgAMUjDmJ3QAB2Z1dHVybzNzcQB+AAyMbl+EdAACZXFzcQB+AAz4AljodAAHZnV0dXJvNXNxAH4ADHodiZJ0AAIjI3NxAH4ADGjnjWl0AAhmaW5hbGl6ZXNxAH4ADHLzrM10AAtsaXN0YU9wdGlvbnNxAH4ADM6WcGF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AF3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBqAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBTTAAJaW5oZXJpdGVkcQB+AFNMAAdwYXJlbnRzcQB+AFN4cQB+AHFzcQB+AGoBdXEAfgBOAAAAAHBzcQB+AGoBdXEAfgBOAAAAAHBzcQB+AGoBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBwdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBwc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCJdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCKc3EAfgB9dAADQW55c3EAfgCBc3EAfgCEdXEAfgCHAAAAAnNxAH4AiXQABXNjYWxhcQB+AJBwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcUodaM3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADkvaG9tZS9saWxpL0VzY3JpdG9yaW8vbm9tYWRMaWxpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ98vZYnRBvI2FFLiY5x4L31q7vTg==
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB6O7KzAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEuU9TR0AAZub3RpZnlzcQB+AAysCdc3dAABeHNxAH4ADJFoG5B0AAR3YWl0c3EAfgAMTCOSPXQADSRhc0luc3RhbmNlT2ZzcQB+AAwhW+kVdAAGZXF1YWxzc3EAfgAMFr8cfXQACHJlc3VsdElEc3EAfgAMwqOA1XQADGFzSW5zdGFuY2VPZnNxAH4ADJmSJbl0AAxzeW5jaHJvbml6ZWRzcQB+AAzXYpF5dAABYXNxAH4ADPBwOTB0AA0kaXNJbnN0YW5jZU9mc3EAfgAMTZJEKXQAC0lkZW50aWRhZElEc3EAfgAM2a2+q3QACXN1bVNxdWFyZXNxAH4ADJLT9R10AA9yZXN1bHRBc2luY3Jvbm9zcQB+AAwEKO3YdAAJbm90aWZ5QWxsc3EAfgAMyLqt+HQADGlzSW5zdGFuY2VPZnNxAH4ADPsbGkx0AAY8aW5pdD5zcQB+AAzLaXWndAAMcmVzdWx0T3B0aW9uc3EAfgAMzdQUMHQAAj09c3EAfgAMd2c9hnQABWNsb25lc3EAfgAM97SXL3QACHRvU3RyaW5nc3EAfgAMCfZgRnQAAiE9c3EAfgAMpK6t+XQADnJlc3VsdFNpbmNyb25vc3EAfgAM9W6ktXQACGdldENsYXNzc3EAfgAMnIL0QXQAAm5lc3EAfgAMaVVl43QAAmVxc3EAfgAM6Y8/q3QAAiMjc3EAfgAM+rmCqXQACGZpbmFsaXplc3EAfgAMfKVvq3QACGhhc2hDb2Rlc3EAfgAMfhfkl3QABmlkSW50MnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AI3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBoAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBRTAAJaW5oZXJpdGVkcQB+AFFMAAdwYXJlbnRzcQB+AFF4cQB+AG9zcQB+AGgBdXEAfgBMAAAAAHBzcQB+AGgBdXEAfgBMAAAAAHBzcQB+AGgBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBudAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBuc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCHdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCIc3EAfgB7dAADQW55c3EAfgB/c3EAfgCCdXEAfgCFAAAAAnNxAH4Ah3QABXNjYWxhcQB+AI5wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcUodaM3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADkvaG9tZS9saWxpL0VzY3JpdG9yaW8vbm9tYWRMaWxpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQHP7ur5AgzBgb4uOOc7ZWp3B5AIA==
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBAlWB2AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJ1BN350AAZub3RpZnlzcQB+AAzB3RgjdAACbTJzcQB+AAxdusOKdAAEd2FpdHNxAH4ADFI/RPZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAM94bVfnQABmVxdWFsc3NxAH4ADEJ1AUl0AAJnMnNxAH4ADFj+Gph0AAJmMXNxAH4ADBYVjAN0AAxhc0luc3RhbmNlT2ZzcQB+AAyP+MZidAAMc3luY2hyb25pemVkc3EAfgAMCmKYz3QADSRpc0luc3RhbmNlT2ZzcQB+AAxuImdQdAACbTFzcQB+AAzwPSs0dAAJbm90aWZ5QWxsc3EAfgAMVJiBi3QADGlzSW5zdGFuY2VPZnNxAH4ADJtobrp0AAY8aW5pdD5zcQB+AAyu41MJdAACPT1zcQB+AAwQbFecdAAFY2xvbmVzcQB+AAwh/yZadAAIdG9TdHJpbmdzcQB+AAwecfejdAAKTGV5ZXNOb21hZHNxAH4ADDoO6CB0AAIhPXNxAH4ADGk494l0AAhnZXRDbGFzc3NxAH4ADG3RE6J0AAJuZXNxAH4ADAF3nOl0AAJlcXNxAH4ADDyMYv50AAIjI3NxAH4ADMbSRzR0AAhmaW5hbGl6ZXNxAH4ADEONni50AAhoYXNoQ29kZXNxAH4ADJF45cF0AAJmMnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AMXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBiAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGlzcQB+AGIBdXEAfgBGAAAAAHBzcQB+AGIBdXEAfgBGAAAAAHBzcQB+AGIBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBodAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBoc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCBdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCCc3EAfgB1dAADQW55c3EAfgB5c3EAfgB8dXEAfgB/AAAAAnNxAH4AgXQABXNjYWxhcQB+AIhwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcUodaM3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADkvaG9tZS9saWxpL0VzY3JpdG9yaW8vbm9tYWRMaWxpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQQTotX0LBtKxviYiMVNgHev11brw==
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDyvzBfAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLsiioN0AAZub3RpZnlzcQB+AAwwvUapdAAEb3B0M3NxAH4ADA+hAxh0AAR3YWl0c3EAfgAMcA160nQADSRhc0luc3RhbmNlT2ZzcQB+AAwS/K0fdAAGZXF1YWxzc3EAfgAMLND8RXQACU9wdGlvbkludHNxAH4ADIrMNXd0AAdvcHRpb24xc3EAfgAMvO3zAnQABWxpc3Qzc3EAfgAMakmDAHQADGFzSW5zdGFuY2VPZnNxAH4ADF1nH590AAxzeW5jaHJvbml6ZWRzcQB+AAw02dZrdAAHbGlzdEludHNxAH4ADE0pyct0AA0kaXNJbnN0YW5jZU9mc3EAfgAMMVw9MHQAB3ZlY3RvcjFzcQB+AAx//hCtdAAJbm90aWZ5QWxsc3EAfgAMNC0sqHQADGlzSW5zdGFuY2VPZnNxAH4ADPCiIBR0AAVsaXN0MXNxAH4ADJqM3LN0AAY8aW5pdD5zcQB+AAzVvtLIdAAEb3B0MXNxAH4ADKlDV0p0AAI9PXNxAH4ADFYi7SF0AAVjbG9uZXNxAH4ADND5jxR0AAh0b1N0cmluZ3NxAH4ADPof9rV0AAIhPXNxAH4ADFbpOZ10AARvcHQyc3EAfgAMYOl2gnQACGdldENsYXNzc3EAfgAMGuIGaHQABWxpc3Qyc3EAfgAMqh35m3QAAm5lc3EAfgAMeiHw/HQADE1vbmFkc0luQ2F0c3NxAH4ADJdyUWh0AAJlcXNxAH4ADLJz/FF0AAIjI3NxAH4ADJulOq50AARsaXN0c3EAfgAM5rdLRXQACGZpbmFsaXplc3EAfgAMeZTYMXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AV3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgBDdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AG4Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFdMAAlpbmhlcml0ZWRxAH4AV0wAB3BhcmVudHNxAH4AV3hxAH4AdXNxAH4AbgF1cQB+AFIAAAAAcHNxAH4AbgF1cQB+AFIAAAAAcHNxAH4AbgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AI10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI5zcQB+AIF0AANBbnlzcQB+AIVzcQB+AIh1cQB+AIsAAAACc3EAfgCNdAAFc2NhbGFxAH4AlHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVxSh1ozdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIMkHcjG8EawLj7j6wFqXOIunzsL
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB7rQ/mAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPL/LE90AAZub3RpZnlzcQB+AAyUScCEdAAHdW5hcHBseXNxAH4ADCXs/KV0AAdjdXJyaWVkc3EAfgAM5QDkG3QABG5hbWVzcQB+AAyM8oS6dAAEd2FpdHNxAH4ADLiMtAF0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADDIrDAl0AA0kYXNJbnN0YW5jZU9mc3EAfgAM1FMYwXQACmdyZWV0S2l0dHlzcQB+AAy3MySJdAAMcHJvZHVjdEFyaXR5c3EAfgAMBI+/MnQABmVxdWFsc3NxAH4ADFTr8Bx0AAxhc0luc3RhbmNlT2ZzcQB+AAxh6BmLdAAMc3luY2hyb25pemVkc3EAfgAMAFX7VnQADSRpc0luc3RhbmNlT2ZzcQB+AAzNVAwSdAAGdHVwbGVkc3EAfgAM7WDTnnQADGdyZWV0QW5kRmVlZHNxAH4ADDm9/WV0AAhjYW5FcXVhbHNxAH4ADNS2HbB0AAVjb2xvcnNxAH4ADFckJLl0AA1wcm9kdWN0UHJlZml4c3EAfgAMCXAP93QACW5vdGlmeUFsbHNxAH4ADEjINnl0AAdjYXROYW1lc3EAfgAMcFwf43QAA0NhdHNxAH4ADI+yA4N0AAxpc0luc3RhbmNlT2ZzcQB+AAwhbD0jdAALUmVhZGVyTm9tYWRzcQB+AAyJ+YNidAAJZmVlZEtpdHR5c3EAfgAMSPLiWHQABjxpbml0PnNxAH4ADL9tPK90AAVhcHBseXNxAH4ADBVTB8l0AAI9PXNxAH4ADLs5bJ50AAVjbG9uZXNxAH4ADDT1pwF0AARjb3B5c3EAfgAMDiIsJnQACHRvU3RyaW5nc3EAfgAMFJbl9HQAAiE9c3EAfgAM0jzwCXQACGdldENsYXNzc3EAfgAMMVOhSnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMUBj1v3QAAm5lc3EAfgAMHNfBwHQAAmVxc3EAfgAMYdEQN3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADHHGGUp0AAIjI3NxAH4ADGEo2qt0AAhmaW5hbGl6ZXNxAH4ADL54ibN0AA5wcm9kdWN0RWxlbWVudHNxAH4ADPapnu90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AO3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgB+AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBnTAAJaW5oZXJpdGVkcQB+AGdMAAdwYXJlbnRzcQB+AGd4cQB+AIVzcQB+AH4BdXEAfgBiAAAAAHBzcQB+AH4BdXEAfgBiAAAAAHBzcQB+AH4BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCEdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCEc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCddAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCec3EAfgCRdAADQW55c3EAfgCVc3EAfgCYdXEAfgCbAAAAAnNxAH4AnXQABXNjYWxhcQB+AKRwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcU1BkAHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADkvaG9tZS9saWxpL0VzY3JpdG9yaW8vbm9tYWRMaWxpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTtsSEg+zrlbgDuOdXTc6L0eBJ/0w==
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBlbBJUAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJHrtKJ0AAZub3RpZnlzcQB+AAwrWp75dAAKU3RhdGVOb21hZHNxAH4ADOKy1th0AAR3YWl0c3EAfgAMbawqc3QADSRhc0luc3RhbmNlT2ZzcQB+AAy6NLnadAAFc3RhdGVzcQB+AAzB7yJAdAAFc3RlcDJzcQB+AAwKlOKqdAAGZXF1YWxzc3EAfgAMDZc5znQAA3gkMnNxAH4ADMVXkNh0AAxhc0luc3RhbmNlT2ZzcQB+AAyRXWlGdAAGcmVzdWx0c3EAfgAMic5acnQACnJlc3VsdGJvdGhzcQB+AAxjd1dWdAAMc3luY2hyb25pemVkc3EAfgAMTFR4THQAAWFzcQB+AAxFgHghdAANJGlzSW5zdGFuY2VPZnNxAH4ADJrXq2Z0AAN4JDFzcQB+AAwbMIvadAAJbm90aWZ5QWxsc3EAfgAMbsneE3QADGlzSW5zdGFuY2VPZnNxAH4ADJiJbq90AAVzdGVwMXNxAH4ADDan5Np0AAY8aW5pdD5zcQB+AAzILXtJdAACPT1zcQB+AAw3dsoUdAAFY2xvbmVzcQB+AAxXotRgdAAEYm90aHNxAH4ADC9Pswx0AAh0b1N0cmluZ3NxAH4ADHRaNmV0AAlzdGF0ZWJvdGhzcQB+AAzV6II4dAACIT1zcQB+AAy4xpxBdAAIZ2V0Q2xhc3NzcQB+AAxI7atjdAACbmVzcQB+AAyJiypcdAACZXFzcQB+AAwwP/T2dAACIyNzcQB+AAw4nByLdAAIZmluYWxpemVzcQB+AAz4EloLdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ABF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AG14cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGwAcHNxAH4AcXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBVTAAJaW5oZXJpdGVkcQB+AFVMAAdwYXJlbnRzcQB+AFV4cQB+AHVzcQB+AGwAcHNxAH4AcXVxAH4AUAAAAABzcQB+AGwAcHNxAH4AcXVxAH4AUAAAAABzcQB+AGwAcHNxAH4AcXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AkXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AknNxAH4AhXQAA0FueXNxAH4AiXNxAH4AjHVxAH4AjwAAAAJzcQB+AJF0AAVzY2FsYXEAfgCYdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVxTU+cydXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFESEsp7LtEisdYL+/8u1MqPin5Co
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDYIYpPAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKDmgZp0AAZub3RpZnlzcQB+AAxZSbl8dAABeHNxAH4ADO06N690AAR3YWl0c3EAfgAMRiCpsXQADSRhc0luc3RhbmNlT2ZzcQB+AAy15xnSdAAGZXF1YWxzc3EAfgAMIGUOFXQADGFzSW5zdGFuY2VPZnNxAH4ADMugvdZ0AAZMb2dnZWRzcQB+AAwHqOFbdAAMc3luY2hyb25pemVkc3EAfgAMFieiwHQADSRpc0luc3RhbmNlT2ZzcQB+AAzF3AeYdAAJbm90aWZ5QWxsc3EAfgAM2onw/3QADGlzSW5zdGFuY2VPZnNxAH4ADNB1Oid0AAtXcml0ZXJNb25hZHNxAH4ADO4EYfh0AAd3cml0ZXIzc3EAfgAM/E1fUXQABjxpbml0PnNxAH4ADK3Td8d0AA13cml0ZXJFamVtcGxvc3EAfgAMek72wHQAAWJzcQB+AAwAxMVGdAACPT1zcQB+AAyWrs0/dAAFY2xvbmVzcQB+AAywN16vdAAHd3JpdGVyNHNxAH4ADDgtZIV0AAh0b1N0cmluZ3NxAH4ADJZ+6TJ0AAIhPXNxAH4ADHo360N0AAhnZXRDbGFzc3NxAH4ADIPuZLZ0AAF3c3EAfgAMC9uQJnQAAm5lc3EAfgAMwgNclHQAAmVxc3EAfgAMA7uvE3QAAiMjc3EAfgAM0F965HQACGZpbmFsaXplc3EAfgAMGAs/PnQACGhhc2hDb2Rlc3EAfgAMbNe/h3QAAWRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBReHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AaAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AUUwACWluaGVyaXRlZHEAfgBRTAAHcGFyZW50c3EAfgBReHEAfgBvc3EAfgBoAXVxAH4ATAAAAABwc3EAfgBoAXVxAH4ATAAAAABwc3EAfgBoAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ah3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AiHNxAH4Ae3QAA0FueXNxAH4Af3NxAH4AgnVxAH4AhQAAAAJzcQB+AId0AAVzY2FsYXEAfgCOcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFMGmHh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA5L2hvbWUvbGlsaS9Fc2NyaXRvcmlvL25vbWFkTGlsaS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUNMbCdEk+GiFoYR+YJWF3KS8U6Pc=
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDnr08SAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEft5tl0AAZub3RpZnlzcQB+AAxDQkuldAAIU29sdXRpb25zcQB+AAxV3AYgdAAEd2FpdHNxAH4ADJdHIhF0AA0kYXNJbnN0YW5jZU9mc3EAfgAM+27LmXQABmVxdWFsc3NxAH4ADMaxred0AAxhc0luc3RhbmNlT2ZzcQB+AAytGhAddAAMc3luY2hyb25pemVkc3EAfgAMfGEGjXQADSRpc0luc3RhbmNlT2ZzcQB+AAyuevc8dAAEbWFpbnNxAH4ADI7WGM90AAlub3RpZnlBbGxzcQB+AAxhlOmWdAAMaXNJbnN0YW5jZU9mc3EAfgAMNxJZDXQAAj09c3EAfgAMVaBiw3QABWNsb25lc3EAfgAMtllmNHQACHRvU3RyaW5nc3EAfgAMgG7ReHQAAiE9c3EAfgAMkPbJcXQACGdldENsYXNzc3EAfgAMVKhbBnQAAm5lc3EAfgAMEtRH43QAAmVxc3EAfgAMbWrGOXQAAiMjc3EAfgAMncXLwHQACGZpbmFsaXplc3EAfgAM4EVqhHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgARdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBYAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF9zcQB+AFgBdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBQAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF50AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBec3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB6dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZ3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AU3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AblsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXnNxAH4AbXQABUFycmF5cQB+AHN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbXQABlN0cmluZ3NxAH4AcXNxAH4AdHVxAH4AdwAAAANzcQB+AHl0AARqYXZhc3EAfgB5dAAEbGFuZ3EAfgB+cHNxAH4AWAF1cQB+ADwAAAAAcHNxAH4AWAF1cQB+AJIAAAACc3EAfgBtdAAGT2JqZWN0cQB+AJZzcQB+AG10AANBbnlxAH4Ac3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVxTUGQAdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFF4ZkeLQQDDzW9XD9Vv8pbBsQgkc
+external apis:
+0 items
+source infos:
+16 items
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio1GettingFuncy.scala -> 
+AAAAAAAAAAA=
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio2MonadicSecret.scala -> 
+AAAAAAAAAAA=
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio4SaferFoldingUsingEval.scala -> 
+AAAAAAAAAAA=
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio5ShowYouWorking.scala -> 
+AAAAAAAAAAA=
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio6HackingOnReaders.scala -> 
+AAAAAAAAAAA=
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio7PostOrderCalculator.scala -> 
+AAAAAAAAAAA=
+/home/lili/Escritorio/nomadLili/src/main/scala/Ejercicio8BranchingOutFurtherWithMonads.scala -> 
+AAAAAAAAAAA=
+/home/lili/Escritorio/nomadLili/src/main/scala/EvalMonad.scala -> 
+AAAAAAAAAAA=
+/home/lili/Escritorio/nomadLili/src/main/scala/FlatmapExample.scala -> 
+AAAAAAAAAAA=
+/home/lili/Escritorio/nomadLili/src/main/scala/IdentidadID.scala -> 
+AAAAAAAAAAA=
+/home/lili/Escritorio/nomadLili/src/main/scala/LeyesNomad.scala -> 
+AAAAAAAAAAA=
+/home/lili/Escritorio/nomadLili/src/main/scala/MonadsInCats.scala -> 
+AAAAAAAAAAA=
+/home/lili/Escritorio/nomadLili/src/main/scala/ReaderNomad.scala -> 
+AAAAAAAAAAA=
+/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala -> 
+AAAAAAAAAAA=
+/home/lili/Escritorio/nomadLili/src/main/scala/WriterMonad.scala -> 
+AAAAAAAAAAA=
+/home/lili/Escritorio/nomadLili/src/main/scala/main.scala -> 
+AAAAAAAAAAA=
+compilations:
+95 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBotaxt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBougwl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBozPWR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBoz0Bp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBo4Pft1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBo65dx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBo8PG51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBo+Mc91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBo/TrV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBpPyKt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBpT+tp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBpVCXR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBpYfex1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBpeMd11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBpfDwt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBp3Vfh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBp69gB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBqBzm11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBqHsYR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBqIzbV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBqJggJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXBqMiah1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFC0P6d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFGZpKl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFGZyFt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFGf3tp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFGgW2l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFGhDbx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFGjI2Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFGnLmt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFGnTSl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFG5BkZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFG5H6J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFG5utF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFHdY2F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFHiDm11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFHwGGZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+37 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFIk3np1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+38 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFI9KS51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+39 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFJGJaV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+40 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFJQuMV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+41 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFJTfNx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+42 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFJUk/91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+43 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFJWDzV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+44 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFJehQR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+45 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFJf5451cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+46 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFJgcF51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+47 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFJmEth1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+48 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFJpefN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+49 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFJrMwl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+50 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFJri651cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+51 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFJu1L51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+52 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFJve5J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+53 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFJx6C51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+54 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFKHWjN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+55 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFKQf491cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+56 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFKpGXJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+57 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFKr7UV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+58 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFKtJ1h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+59 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFK2Us51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+60 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFK5lg91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+61 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFK7oFN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+62 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFK+76B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+63 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFK/4Vd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+64 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFLIMtB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+65 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFLMbZl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+66 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFLNCAR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+67 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFLOi5p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+68 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFLS89t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+69 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFLVrtB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+70 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFLWS591cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+71 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFLX0ch1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+72 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFLYyW51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+73 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFLaVKp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+74 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFLbIpN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+75 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFLblpx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+76 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFLguc11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+77 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFLl5zx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+78 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFLn6xB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+79 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFLoa0J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+80 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFL3U1t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+81 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFL5m1N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+82 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFMGmHh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+83 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFMHvtZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+84 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFMPD8p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+85 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFMS0CR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+86 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFMTW4p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+87 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFMVGUt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+88 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFMZw791cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+89 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFMaRQ91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+90 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFMc1Mp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+91 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFM+G/91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+92 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFM+p0h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+93 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFNQZAB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+94 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXFNT5zJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOS9ob21lL2xpbGkvRXNjcml0b3Jpby9ub21hZExpbGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=

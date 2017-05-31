@@ -1,0 +1,39 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/lili/Escritorio/nomadLili/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.12.2[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.12.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 2e758d05, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/opt/java/jdk1.8.0_131/jre/lib/resources.jar:/opt/java/jdk1.8.0_131/jre/lib/rt.jar:/opt/java/jdk1.8.0_131/jre/lib/sunrsasign.jar:/opt/java/jdk1.8.0_131/jre/lib/jsse.jar:/opt/java/jdk1.8.0_131/jre/lib/jce.jar:/opt/java/jdk1.8.0_131/jre/lib/charsets.jar:/opt/java/jdk1.8.0_131/jre/lib/jfr.jar:/opt/java/jdk1.8.0_131/jre/classes:/home/lili/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/lili/Escritorio/nomadLili/target/scala-2.12/classes:/home/lili/.ivy2/cache/org.typelevel/cats_2.12/jars/cats_2.12-0.9.0.jar:/home/lili/.ivy2/cache/org.typelevel/cats-macros_2.12/jars/cats-macros_2.12-0.9.0.jar:/home/lili/.ivy2/cache/com.github.mpilquist/simulacrum_2.12/jars/simulacrum_2.12-0.10.0.jar:/home/lili/.ivy2/cache/org.typelevel/macro-compat_2.12/jars/macro-compat_2.12-1.1.1.jar:/home/lili/.ivy2/cache/org.typelevel/machinist_2.12/jars/machinist_2.12-0.6.1.jar:/home/lili/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.0.jar:/home/lili/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-0.9.0.jar:/home/lili/.ivy2/cache/org.typelevel/cats-kernel-laws_2.12/jars/cats-kernel-laws_2.12-0.9.0.jar:/home/lili/.ivy2/cache/org.scalacheck/scalacheck_2.12/jars/scalacheck_2.12-1.13.4.jar:/home/lili/.ivy2/cache/org.scala-sbt/test-interface/jars/test-interface-1.0.jar:/home/lili/.ivy2/cache/org.typelevel/discipline_2.12/jars/discipline_2.12-0.7.2.jar:/home/lili/.ivy2/cache/org.typelevel/catalysts-platform_2.12/jars/catalysts-platform_2.12-0.0.5.jar:/home/lili/.ivy2/cache/org.typelevel/catalysts-macros_2.12/jars/catalysts-macros_2.12-0.0.5.jar:/home/lili/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-0.9.0.jar:/home/lili/.ivy2/cache/org.typelevel/cats-laws_2.12/jars/cats-laws_2.12-0.9.0.jar:/home/lili/.ivy2/cache/org.typelevel/cats-free_2.12/jars/cats-free_2.12-0.9.0.jar:/home/lili/.ivy2/cache/org.typelevel/cats-jvm_2.12/jars/cats-jvm_2.12-0.9.0.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 6.403088165 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/lili/Escritorio/nomadLili/src/main/scala/StateNomad.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	step2, x$2, resultboth, step1, both, stateboth.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/lili/Escritorio/nomadLili/src/main/scala/main.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
