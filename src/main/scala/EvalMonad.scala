@@ -12,7 +12,7 @@ class EvalMonad {
   //println("valNow: " + valNow.value)
 
   //EVAL EN NOMAD  ********************************************************************
-  val greeting = Eval.now {
+  val greeting: Eval[String] = Eval.now {
     println("greeting1 1")
     "Hello"
   }.map { str =>
@@ -46,7 +46,7 @@ class EvalMonad {
   //println(factorial(50000)) falla
 
   def factorial3(n: BigInt): Eval[BigInt] = if(n == 1) Eval.now(n) else factorial3(n - 1).map(_ * n)
-  //factorial3(50000).value falla,
+  //factorial3(50000).value falla
 
   // Eval.defer, toma una instancia existente de Eval y difiere su evaluación hasta más tarde.
   def factorial2(n: BigInt): Eval[BigInt] = //Eval.defer

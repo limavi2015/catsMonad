@@ -33,6 +33,8 @@ class Ejercicio7PostOrderCalculator {
       (num :: stack, num)
     }
 
+  //Generalizar este ejemplo ejecutando un método evalAll que calcula el resultado de una Lista [String].
+  // Utilice evalOne para procesar cada símbolo e inicie el resultado de las mónadas de estado con el uso de flatMap
   def evalAll(input: List[String]): CalcState[Int] = { //**
     input.foldLeft(0.pure[CalcState]) { (a, b) =>
       a flatMap (_ => evalOne(b))

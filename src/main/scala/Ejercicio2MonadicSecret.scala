@@ -3,10 +3,18 @@ class Ejercicio2MonadicSecret {
   println("**** EJERCICIO2: Monadic Secret Identities 4.3.1 ****")
   //Implementar pure, mapa y flatMap para Id
 
+
   import cats.Id
+
+  def pure[A](value: A): Id[A] = value:Id[A]
+  def flatMap[A, B](value: Id[A])(func: A => Id[B]): Id[B] = func(value)
+  def map[A, B](value: Id[A])(func: A => Id[B]): Id[B] = func(value)
+
+/* solucion del libro
   def pure[A](value: A): Id[A] = value
-  def map[A, B]    (initial: Id[A])(func: A => B):     Id[B] =  func(initial)
   def flatMap[A, B](initial: Id[A])(func: A => Id[B]): Id[B] =  func(initial)
+  def map[A, B]    (initial: Id[A])(func: A => B):     Id[B] =  func(initial)
+*/
 
   println(pure(44))
   println(map(44)(_ * 3))
